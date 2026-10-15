@@ -20,5 +20,6 @@ During the beta, a VM requires an invitation: ask for one at
 [quickstart](https://chroot.dev/blog/quickstart/) ·
 [man](https://chroot.dev/man/) ·
 [blog](https://chroot.dev/blog/) ·
+[got](https://got.chroot.run) ·
 [status](https://status.chroot.dev) ·
 [contact](https://chroot.dev/contact/)
